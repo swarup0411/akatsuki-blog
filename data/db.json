@@ -1,0 +1,64 @@
+{
+  "blogs": [
+    {
+      "title": "Tobi",
+      "body": "Obito Uchiha was a member of Konohagakure's Uchiha clan. He was believed to have died during the Third Shinobi World War, his only surviving legacy being the Sharingan he gave to his teammate, Kakashi Hatake. In truth, Obito was saved from death and trained by Madara Uchiha, but the events of the war left Obito disillusioned with reality, and he inherited Madara's plan to create an ideal world. Resurfacing under the names of Tobi and Madara Uchiha himself, Obito subtly took control of the Akatsuki, using them as a means to advance his machinations, eventually going public and starting the Fourth Shinobi World War. However, towards the war's conclusion, Obito had a change of heart and, as atonement, sacrificed his life to save the same world he sought to replace.",
+      "power": "Mangekyo Sharingan / Kamui",
+      "id": 1
+    },
+    {
+      "title": "Pain",
+      "body": "Nagato was a shinobi of Amegakure and descendant of the Uzumaki clan. Forming Akatsuki alongside his friends (and fellow war orphans) Yahiko and Konan, Nagato dreamed of bringing peace to the violent shinobi world. However, following Yahiko's death, Nagato adopted the alias of Pain and, along with Konan, began leading a new Akatsuki — one that would force the world into peace using any means necessary. Despite his conviction in Akatsuki's goals, Nagato is re-convinced of his former pacifism by Naruto Uzumaki, who believes the struggle for peace is worth any personal cost to the point of sacrificing his life to atone for his actions. Recognising the person he once was, Nagato decides to believe in Naruto's answer for peace, also regaining his faith in Jiraiya. Upon his revival, Nagato demonstrates a far friendlier side, joking with and praising Naruto. Before he is sealed away, Nagato reveals that he has gone from viewing himself as a god to viewing himself as the failed middle volume of a trilogy started by Jiraiya and ended with Naruto.",
+      "power": "Rinnegan / 6 paths",
+      "id": 2
+    },
+    {
+      "title": "Itachi",
+      "body": "Itachi Uchiha was a shinobi of Konohagakure's Uchiha clan who served as an Anbu Captain. He later became an international criminal after murdering his entire clan, sparing only his younger brother, Sasuke. He afterwards joined the international criminal organisation known as Akatsuki, whose activity brought him into frequent conflict with Konoha and its ninja — including Sasuke — who sought to avenge their clan by killing Itachi. At some point, Itachi contracted a terminal illness. He kept himself alive through the years with medicine and sheer willpower so that he could live long enough to die by Sasuke's hand. Following his death, Itachi's motives were revealed to be more complicated than they seemed and that his actions were only ever in the interest of his brother and village, making him remain a loyal shinobi of Konohagakure to the very end.",
+      "power": "Mangekyo Sharingan / Genjutsu",
+      "id": 3
+    },
+    {
+      "title": "Kisame",
+      "body": "Kisame Hoshigaki, feared as the Monster of the Hidden Mist, was a shinobi of Kirigakure's Hoshigaki Clan. After joining the Seven Ninja Swordsmen of the Mist, he became an S-rank missing-nin and was partnered with Itachi Uchiha when the latter joined Akatsuki.",
+      "power": "Samehada user",
+      "id": 4
+    },
+    {
+      "title": "Konan",
+      "body": "Konan was a kunoichi from Amegakure and a founding member of the original Akatsuki. After Yahiko's death, she was partnered with Nagato, who had since taken control of Akatsuki, and was the only member to call him by his name. After Nagato's death, Konan defected from Akatsuki and became the de facto village head of Amegakure.",
+      "power": "Several Paper Bombs",
+      "id": 5
+    },
+    {
+      "title": "Hidan",
+      "body": "Hidan is an S-rank missing-nin who defected from Yugakure and later joined the Akatsuki. There, he was partnered with Kakuzu, despite the two's somewhat mutual dislike of each other. He was also the second newest member of Akatsuki at the time of Tobi's introduction.[2] Kisame Hoshigaki laughingly referred to Hidan and Kakuzu as the Zombie Combo",
+      "power": "Ceremony for Lord Jashin : ",
+      "id": 6
+    },
+    {
+      "title": "Kakuzu",
+      "body": "Kakuzu was an S-rank missing-nin from Takigakure and a member of Akatsuki who was partnered with Hidan. Kisame Hoshigaki jokingly referred to them as the Zombie Combo due to the fact that, in differing senses, they could not die.",
+      "power": "4 masks with 4 hearts : ",
+      "id": 7
+    },
+    {
+      "title": "Deidara",
+      "body": "Deidara was an S-rank missing-nin from Iwagakure. During his time in the village, he was a member of the Explosion Corps. After defecting from the village, he was forced into Akatsuki and was its youngest member. There, Deidara was partnered with Sasori until the latter's death, and later with Tobi before his own death.",
+      "power": "Explosion Clay",
+      "id": 8
+    },
+    {
+      "title": "Sasori",
+      "body": "Sasori, renowned as Sasori of the Red Sand (赤砂のサソリ, Akasuna no Sasori), was an S-rank missing-nin from Sunagakure's Puppet Brigade and a member of Akatsuki, where he was partnered with Orochimaru and later Deidara.",
+      "power": "Puppet Jutsu",
+      "id": 9
+    },
+    {
+      "title": "Zetsu",
+      "body": "Black Zetsu was the physical manifestation of Princess Kaguya Ōtsutsuki's will. It secretly instigated many of the events that shaped the shinobi world to secure Kaguya's revival. To further its plans, it posed as Madara Uchiha's manifested will and then partnered with White Zetsu to become half of the Akatsuki member known simply as Zetsu. White Zetsu was half of the Akatsuki member Zetsu (ゼツ, Zetsu), the other being Black Zetsu. He was one of the first victims of Kaguya Ōtsutsuki's Infinite Tsukuyomi, and was eventually pulled from the Demonic Statue of the Outer Path by Black Zetsu,[4] and infused with the DNA of Hashirama Senju by Madara Uchiha.",
+      "power": "Cloning & healing",
+      "id": 10
+    }
+  ]
+}
